@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7349" started-at="2020-03-03T12:48:53 IST" finished-at="2020-03-03T12:49:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7349" started-at="2020-03-03T12:48:53 IST" finished-at="2020-03-03T12:49:01 IST">
+      <class name="com.restassured.example.DataDriverTest_NewEmployee">
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.restassured.example.DataDriverTest_NewEmployee@2a17b7b6]" name="postNewEmployees" duration-ms="3117" started-at="2020-03-03T12:48:54 IST" data-provider="empdataprovider" finished-at="2020-03-03T12:48:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KAMALA001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000000000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.restassured.example.DataDriverTest_NewEmployee@2a17b7b6]" name="postNewEmployees" duration-ms="848" started-at="2020-03-03T12:48:57 IST" data-provider="empdataprovider" finished-at="2020-03-03T12:48:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KAMALA001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000000000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.restassured.example.DataDriverTest_NewEmployee@2a17b7b6]" name="postNewEmployees" duration-ms="866" started-at="2020-03-03T12:48:58 IST" data-provider="empdataprovider" finished-at="2020-03-03T12:48:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KAMALA001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000000000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.restassured.example.DataDriverTest_NewEmployee@2a17b7b6]" name="postNewEmployees" duration-ms="831" started-at="2020-03-03T12:48:59 IST" data-provider="empdataprovider" finished-at="2020-03-03T12:49:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KAMALA001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000000000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.restassured.example.DataDriverTest_NewEmployee@2a17b7b6]" name="postNewEmployees" duration-ms="829" started-at="2020-03-03T12:49:00 IST" data-provider="empdataprovider" finished-at="2020-03-03T12:49:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KAMALA001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000000000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+      </class> <!-- com.restassured.example.DataDriverTest_NewEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
